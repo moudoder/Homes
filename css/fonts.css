@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@300;500&display=swap");
+@font-face {
+  font-family: 'Google Sans';
+  src: local("Google Sans Regular"), local("Google-Sans-Regular"), url("../fonts/GoogleSans-Regular.woff2") format("woff2"), url("../fonts/GoogleSans-Regular.woff") format("woff"), url("../fonts/GoogleSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZvbnRzLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEseUZBQVk7QUFFWjtFQUNJLDBCQUEwQjtFQUMxQiw0T0FHNkQ7RUFDN0QsZ0JBQWdCO0VBQ2hCLGtCQUFrQixFQUFBIiwiZmlsZSI6ImZvbnRzLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgdXJsKCdodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2NzczI/ZmFtaWx5PU1hbnJvcGU6d2dodEAzMDA7NTAwJmRpc3BsYXk9c3dhcCcpO1xyXG4vLyBmb250LWZhbWlseTogJ01hbnJvcGUnLCBzYW5zLXNlcmlmO1xyXG5AZm9udC1mYWNlIHtcclxuICAgIGZvbnQtZmFtaWx5OiAnR29vZ2xlIFNhbnMnO1xyXG4gICAgc3JjOiBsb2NhbCgnR29vZ2xlIFNhbnMgUmVndWxhcicpLCBsb2NhbCgnR29vZ2xlLVNhbnMtUmVndWxhcicpLFxyXG4gICAgICAgIHVybCgnLi4vZm9udHMvR29vZ2xlU2Fucy1SZWd1bGFyLndvZmYyJykgZm9ybWF0KCd3b2ZmMicpLFxyXG4gICAgICAgIHVybCgnLi4vZm9udHMvR29vZ2xlU2Fucy1SZWd1bGFyLndvZmYnKSBmb3JtYXQoJ3dvZmYnKSxcclxuICAgICAgICB1cmwoJy4uL2ZvbnRzL0dvb2dsZVNhbnMtUmVndWxhci50dGYnKSBmb3JtYXQoJ3RydWV0eXBlJyk7XHJcbiAgICBmb250LXdlaWdodDogNDAwO1xyXG4gICAgZm9udC1zdHlsZTogbm9ybWFsO1xyXG4gIH0iXX0= */
